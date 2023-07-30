@@ -8,7 +8,7 @@ function App() {
       {/* <CharacterList></CharacterList>
       <BannerNames></BannerNames> */}
       <GetData></GetData>
-      
+      testen
     </div>
   );
 }
