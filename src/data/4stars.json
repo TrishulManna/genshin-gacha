@@ -1,0 +1,410 @@
+[
+    {
+        "name": "Akuoumaru",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Alley Hunter",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Dragon's Bane",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Eye of Perception",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Favonius Codex",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Favonius Greatsword",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Favonius Lance",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Favonius Sword",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Favonius Warbow",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Lion's Roar",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Lithic Blade",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Lithic Spear",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Mitternachts Waltz",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Mouun's Moon",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Rainslasher",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Rust",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Sacrificial Bow",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Sacrificial Fragments",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Sacrificial Sword",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "The Alley Flash",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "The Bell",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "The Flute",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "The Stringless",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "The Widsith",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": true
+    },
+    {
+        "name": "Wavebreaker's Fin",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Wine and Song",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Amber",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Barbara",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Beidou",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Bennett",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Chongyun",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Collei",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Diona",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Fischl",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Gorou",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Kaeya",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Kuki Shinobu",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Lisa",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Ningguang",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Noelle",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Razor",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Rosaria",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Kujou Sara",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Sayu",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Shikanoin Heizou",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Sucrose",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Thoma",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Traveler",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Xiangling",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Xingqiu",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Xinyan",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Yanfei",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Yun Jin",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Xiphos' Moonlight",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Fading Twilight",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Mailed Flower",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Makhaira Aquamarine",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Sword of Descension",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Wandering Evenstar",
+        "rarity": 4,
+        "gachaType": "weapon",
+        "standard": false
+    },
+    {
+        "name": "Faruzan",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Kaveh",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Dori",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Candace",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Kirara",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Layla",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Mika",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    },
+    {
+        "name": "Yaoyao",
+        "rarity": 4,
+        "gachaType": "character",
+        "standard": true
+    }
+]

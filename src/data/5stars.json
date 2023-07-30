@@ -1,0 +1,404 @@
+[
+   {
+      "name": "Amos' Bow",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": true
+   },
+   {
+      "name": "Aquila Favonia",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": true
+   },
+   {
+      "name": "Calamity Queller",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Everlasting Moonglow",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Elegy for the End",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Engulfing Lightning",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Everlasting Moonglow",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Freedom-Sworn",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Haran Geppaku Futsu",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Kagura's Verity",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Lost Prayer to the Sacred Winds",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": true
+   },
+   {
+      "name": "Memory of Dust",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Mistsplitter Reforged",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Polar Star",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Primordial Jade Cutter",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Primordial Jade Winged-Spear",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": true
+   },
+   {
+      "name": "Redhorn Stonethresher",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Skyward Atlas",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": true
+   },
+   {
+      "name": "Skyward Blade",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": true
+   },
+   {
+      "name": "Skyward Harp",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": true
+   },
+   {
+      "name": "Skyward Pride",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": true
+   },
+   {
+      "name": "Skyward Spine",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": true
+   },
+   {
+      "name": "Song of Broken Pines",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Staff of Homa",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Summit Shaper",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "The Unforged",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Thundering Pulse",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Vortex Vanquisher",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Wolf's Gravestone",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": true
+   },
+   {
+      "name": "Albedo",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Aloy",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Arataki Itto",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Kamisato Ayaka",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Diluc",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": true
+   },
+   {
+      "name": "Eula",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Ganyu",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Hu Tao",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Jean",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": true
+   },
+   {
+      "name": "Kaedehara Kazuha",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Keqing",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": true
+   },
+   {
+      "name": "Klee",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Sangonomiya Kokomi",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Mona",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": true
+   },
+   {
+      "name": "Qiqi",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": true
+   },
+   {
+      "name": "Raiden Shogun",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Shenhe",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Tartaglia",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Tighnari",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": true
+   },
+   {
+      "name": "Ayato",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Venti",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Xiao",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Yae Miko",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Yelan",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Yoimiya",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Zhongli",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Tulaytullah's Remembrance",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Staff of the Scarlet Sands",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Key of Khaj-Nisut",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Jadefall's Splendor",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "A Thousand Floating Dreams",
+      "rarity": 5,
+      "gachaType": "weapon",
+      "standard": false
+   },
+   {
+      "name": "Dehya",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": true
+   },
+   {
+      "name": "Nahida",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Cyno",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Baizhu",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Alhaitham",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Nilou",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   },
+   {
+      "name": "Wanderer",
+      "rarity": 5,
+      "gachaType": "character",
+      "standard": false
+   }
+]
