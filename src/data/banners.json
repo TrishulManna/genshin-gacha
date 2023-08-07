@@ -1,10 +1,12 @@
 [
     {
         "name": "Drifting Luminescence",
-        "rateUp": ["Wanderer", "Yanfei", "Rosaria", "Faruzan"]
+        "rateUp": ["Yanfei", "Rosaria", "Faruzan"],
+        "fiveStar": "Wanderer"
     },
     {
         "name": "From Ashes Reborn",
-        "rateUp": ["Kokomi", "Yanfei", "Rosaria", "Faruzan"]
+        "rateUp": ["Yanfei", "Rosaria", "Faruzan"],
+        "fiveStar": "Sangonomiya Kokomi"
     }
 ]
