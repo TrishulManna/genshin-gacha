@@ -79,7 +79,7 @@ const handleRunGacha = (amount:any) => {
         lastFiveStar = randomStandardFiveStar;
   
       }else{
-        let bannerFiveStar = fiveStars.find(character => character.name === bannerCharacter);
+        let bannerFiveStar:any = fiveStars.find(character => character.name === bannerCharacter);
         allPulls.push(bannerFiveStar);
         lastFiveStar = bannerFiveStar;
       }

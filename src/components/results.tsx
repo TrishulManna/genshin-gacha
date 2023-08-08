@@ -13,7 +13,7 @@ export default function Results({ receivedData }: any) {
       <p className="text-[var(--secondary-font)] text-center text-xl">Gacha Results</p>
       <div className="text-[var(--secondary-font)] grid gap-1">
         {receivedData ? (
-          receivedData.map((value, index) => (
+          receivedData.map((value:any, index:number) => (
             <div className={value.rarity === 5 ? 'bg-[hsl(180_1%_81%_/_0.3)] outline p-1 rounded' : value.rarity === 4 ? 'bg-[hsl(180_1%_81%_/_0.3)] p-1 rounded' : ''} key={index}>{value.name}</div>
           ))
         ) : (

@@ -4,7 +4,7 @@ import "./index.css"
 import { useState } from "react";
 
 function App() {
-  const [receivedData, setReceivedData] = useState([]);
+  const [receivedData, setReceivedData] = useState<any[]>([]);
 
   const handleDataFromChild = (data:any) => {        
       setReceivedData([...data]); 
