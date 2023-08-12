@@ -9,7 +9,7 @@ export default function Results({ receivedData }: any) {
   }, [receivedData]);
 
   return (
-    <section className="flex-1 bg-[var(--primary-color)] rounded-[28px] p-2.5 overflow-y-auto" id="gacha-results-container">
+    <section className="flex-1 bg-[var(--primary-color)] rounded-[28px] p-2.5 overflow-y-auto max-h-full min-w-[255px]" id="gacha-results-container">
       <p className="text-[var(--secondary-font)] text-center text-xl">Gacha Results</p>
       <div className="text-[var(--secondary-font)] grid gap-1">
         {receivedData ? (
