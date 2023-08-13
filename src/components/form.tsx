@@ -57,9 +57,9 @@ const handleRunGacha = (amount:any) => {
   let chanceFourStar = 5.1
   let chanceThreeStart = 94.3
   
-  const randomValue = Math.random() * 100; // Generate a random float between 0 and 100  
   // const randomValue =  0.1; // Generate a random float between 0 and 100  
   for (let index = 0; index < parseInt(amount); index++) {
+    const randomValue = Math.random() * 100; // Generate a random float between 0 and 100  
     if (randomValue <= chanceFiveStar || fiveStarCount === 89) {
       // List all 5 star standard characters.
       // Check current banner 
@@ -111,7 +111,7 @@ const handleRunGacha = (amount:any) => {
       }
   
       fourStarCount = 0;
-      fiveStarCount++
+      fiveStarCount++;
   
       // console.log("Four Star", allPulls, lastFourStar);
     } else {
@@ -121,8 +121,7 @@ const handleRunGacha = (amount:any) => {
       
       // console.log("Three Star", allPulls)
     }
-  }
-  
+  }  
 };
 
 export default function Form({ sendDataToParent }: any) {
