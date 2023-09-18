@@ -6,11 +6,12 @@
     --background-color-beige: #F0F0F0;
     --primary-color: #393B41;
     --secondary-color: #cfd0d0;
-    --secondary-font: #F4D8A8;
+    --secondary-font: #f4d8a8;
 }
 
 #root{
-    background-color: var(--background-color-beige);
+    /* background-color: var(--background-color-beige); */
+    background: #cfd0d0;
     height: 100dvh;
     width: 100dvw;
     display: grid;
